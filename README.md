@@ -5,11 +5,11 @@
 ## About Me
 My name is Suwayda, I'm from London and a recent career changer passionate about all things data. 
 ###
-1. 😊 Pronouns: She/Her
-2. 🚀 I am a Trainee Technical Consultant at Xander Talent.
-3. 💻 I've successfully completed a Data Engineering bootcamp
-4. 💻 I've gained the following certifications: Microsoft Azure Fundamentals (AZ900), Microsoft Data Fundamentals (DP900) and AWS Cloud Practitioner.
-5. ✈️ I enjoy traveling and immersing myself in different cultures
+-😊 Pronouns: She/Her
+-🚀 I am a Trainee Technical Consultant at Xander Talent.
+-💻 I've successfully completed a Data Engineering bootcamp
+-💻 I've gained the following certifications: Microsoft Azure Fundamentals (AZ900), Microsoft Data Fundamentals (DP900) and AWS Cloud Practitioner.
+-✈️ I enjoy traveling and immersing myself in different cultures
 
 ## Currently Working On... 
 A data analytics project for a client using Power BI. 
