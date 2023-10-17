@@ -1,6 +1,6 @@
-# Hi there👋
+# Hi There👋
 
-# Welcome to My GitHub 
+## Welcome to My GitHub 
 
 ## About Me
 My name is Suwayda, I'm from London and a recent career changer passionate about all things data. 
