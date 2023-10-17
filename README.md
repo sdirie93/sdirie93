@@ -17,7 +17,7 @@ A data analytics project for a client using Power BI.
 
 ## Knowledge/Experience with the following ... 
 
-![image](https://github.com/sdirie93/sdirie93/assets/135326872/7cc3cac3-f8e8-4b30-a549-de898ed35fd5)
+
 
 </ul>
 
