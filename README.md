@@ -16,13 +16,13 @@ A data analytics project for a client using Power BI.
 What You'll Find Here
 
 ## Knowledge/Experience with the following ... 
-![image](https://github.com/sdirie93/sdirie93/assets/135326872/a9431889-377e-4b35-925f-25bb5151bf58)
+
 
 
 
 ## Get in Touch
 I'm always open to collaborating, learning from others and making new connections. Let's Connect!
-💼 Connect with me on LinkedIn: 
+💼 Connect with me on LinkedIn: www.linkedin.com/in/suwayda-dirie/
 
 
 Thank you for joining me on this adventure, and feel free to explore the content here on my GitHub repository. 😊🌍🌟
