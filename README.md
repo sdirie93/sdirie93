@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
+## About me 
+
+I'm Suwayda, a trainee technical consultant at Xander with a keen interest in Data Engineering.
 <!--
 **sdirie93/sdirie93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
