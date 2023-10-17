@@ -1,8 +1,9 @@
 # Hi there👋
+
 # Welcome to My GitHub 
-Hello there! 👋 I'm excited to have you here. This is my GitHub repository, where I share my journey as a trainee technical consultant, a career changer passionate about data engineering, and someone who is always thrilled to explore new places and cultures.
 
 ## About Me
+My name is Suwayda, I'm from London and a recent career changer passionate about all things data. 
 😊 Pronouns: She/Her
 🚀 I am a Trainee Technical Consultant at Xander Talent.
 💻 I've successfully completed a Data Engineering bootcamp
