@@ -12,12 +12,10 @@ My name is Suwayda, I'm from London and a recent career changer passionate about
 - 😊 Pronouns: She/Her
 
 ## Currently Working On... 
-A data analytics project for a client using Power BI. 
+Utilising a Large Language Model (LLM), developing an application centred on summarising and answering questions on Climate Change and combating climate challenges. With a command-line interface, users can submit queries and obtain prompt responses.
 
 
 ## Knowledge/Experience with the following ... 
-PYTHON Logo 
-
 
 
 </ul>
