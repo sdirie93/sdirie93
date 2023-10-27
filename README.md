@@ -16,6 +16,7 @@ A data analytics project for a client using Power BI.
 
 
 ## Knowledge/Experience with the following ... 
+PYTHON Logo 
 
 
 
